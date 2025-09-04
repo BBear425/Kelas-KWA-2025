@@ -1,5 +1,5 @@
-# - Login Admin
-Log in with the administrator's user account.
+# - Login Jim
+Log in with the Jim's user account.
 
 # - Link
 https://juice-shop.herokuapp.com/#/
