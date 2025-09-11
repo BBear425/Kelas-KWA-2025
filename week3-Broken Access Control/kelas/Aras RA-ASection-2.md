@@ -7,7 +7,7 @@ https://juice-shop.herokuapp.com/#/
 # - Cara
 
 ## Step
-1.Login sebagai admin
+1. Login sebagai admin
 2. ganti page menjadi '#/administration'
 
 ## Gambar
