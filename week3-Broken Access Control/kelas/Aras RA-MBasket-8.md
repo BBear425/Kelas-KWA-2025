@@ -7,12 +7,12 @@ https://juice-shop.herokuapp.com/#/
 # - Cara
 
 ## Step
-1. Buat FeedBack
-2. Intercept dan Edit
+1. Tambah produk sampai dua dan Intercept
+2. di BasketID overload dengan membuat variable tersebut lagi3. 
 
 ## Gambar
-<img width="2877" height="1719" alt="Cuplikan layar 2025-09-11 145221" src="https://github.com/user-attachments/assets/d9c6ba3c-2d6c-43d4-a624-5ad84f9eb048" />
-<img width="2768" height="1550" alt="Cuplikan layar 2025-09-11 142612" src="https://github.com/user-attachments/assets/38e10c40-498c-488d-a62f-67fe6218a1f9" />
-<img width="2879" height="1714" alt="Cuplikan layar 2025-09-11 142713" src="https://github.com/user-attachments/assets/274272fc-f45a-4a6e-8132-ab2ec7aacde9" />
+<img width="2879" height="1719" alt="Cuplikan layar 2025-09-11 151055" src="https://github.com/user-attachments/assets/4a7ad5b0-fef8-4166-bb70-0d52ef0d57e3" />
+<img width="2879" height="1708" alt="Cuplikan layar 2025-09-13 103225" src="https://github.com/user-attachments/assets/2f657cc4-7a62-4b42-bb41-f616b88f2c57" />
+<img width="2879" height="1715" alt="Cuplikan layar 2025-09-13 103358" src="https://github.com/user-attachments/assets/f66625db-0b46-44b8-8e28-a87d48002470" />
 
 ## Berhasil
