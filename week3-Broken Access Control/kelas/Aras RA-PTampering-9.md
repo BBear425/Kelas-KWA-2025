@@ -17,6 +17,6 @@ https://juice-shop.herokuapp.com/#/
 <img width="2304" height="1276" alt="VirtualBox_kali-linux-2024 4-virtualbox-amd64_13_09_2025_22_52_59" src="https://github.com/user-attachments/assets/e6db21b1-6d2c-46af-9eb4-bd9dbdd02e34" />
 <img width="2304" height="1276" alt="VirtualBox_kali-linux-2024 4-virtualbox-amd64_13_09_2025_23_03_37" src="https://github.com/user-attachments/assets/e2cd1a58-116f-4687-810e-b660fcc8e8ca" />
 <img width="2304" height="1276" alt="VirtualBox_kali-linux-2024 4-virtualbox-amd64_13_09_2025_23_04_25" src="https://github.com/user-attachments/assets/ea0b3b23-0836-4369-b5e4-7971aa861217" />
-<img width="2304" height="1276" alt="VirtualBox_kali-linux-2024 4-virtualbox-amd64_13_09_2025_23_05_13" src="https://github.com/user-attachments/assets/2f80dde2-863d-4589-a6a1-1a75e45c8d46" />y
+<img width="2304" height="1276" alt="VirtualBox_kali-linux-2024 4-virtualbox-amd64_13_09_2025_23_05_13" src="https://github.com/user-attachments/assets/2f80dde2-863d-4589-a6a1-1a75e45c8d46" />
 
 ## Berhasil
