@@ -11,9 +11,11 @@ https://portswigger.net/web-security/access-control/lab-user-role-controlled-by-
 # - Cara
 
 ## Step
-1. Di file javascript ada link admin
-2. Masuk pada hasil link
-3. Hapus Carlos
+1. Pada masuk ke akun di beri dan toggling status admin
+2. Jika sebelum gagal dan sesudah login sementara diterima sebagai admin
+3. Untuk admin pada session cari cookies di inspect dan ganti ke true
+4. Lanjut ke halaman admin
+5. Hapus Calros
 
 ## Gambar
 <img width="2879" height="1714" alt="Cuplikan layar 2025-09-18 081917" src="https://github.com/user-attachments/assets/63b0eccb-6a74-4542-b416-3d1bf3e758ef" />
