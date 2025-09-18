@@ -1,6 +1,18 @@
+# - Lab: User ID controlled by request parameter
+ This lab has a horizontal privilege escalation vulnerability on the user account page.
+
+To solve the lab, obtain the API key for the user carlos and submit it as the solution.
+
+You can log in to your own account using the following credentials: wiener:peter 
+
+# - Link
+https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter
+
+# - Cara
+
 ## Step
 1. Pas login sebagai wiener ganti ID menjadi Carlos
-2. Salin APK key ke Submit Solution
+2. Salin API key ke Submit Solution
 
 ## Gambar
 <img width="2879" height="1713" alt="Cuplikan layar 2025-09-18 080407" src="https://github.com/user-attachments/assets/9f0e569b-d115-471d-a195-abca16d8bcc1" />
