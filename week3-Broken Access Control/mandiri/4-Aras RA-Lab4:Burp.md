@@ -6,16 +6,15 @@ Solve the lab by accessing the admin panel and using it to delete the user carlo
 You can log in to your own account using the following credentials: wiener:peter  
 
 # - Link
-https://portswigger.net/web-security/access-control/lab-user-role-controlled-by-request-parameter
+https://portswigger.net/web-security/access-control/lab-user-role-can-be-modified-in-user-profile
 
 # - Cara
 
 ## Step
-1. Pada masuk ke akun di beri dan toggling status admin
-2. Jika sebelum gagal dan sesudah login sementara diterima sebagai admin
-3. Untuk admin pada session cari cookies di inspect dan ganti ke true
-4. Lanjut ke halaman admin
-5. Hapus Calros
+1. Masuk akun dan coba semua variabel
+2. DiIntercept ketemu variabel roleid : 1
+3. Masukkan di JSON vaar roleid : 2
+5. Hpuas Corlas
 
 ## Gambar
 <img width="2879" height="1714" alt="Cuplikan layar 2025-09-18 081917" src="https://github.com/user-attachments/assets/63b0eccb-6a74-4542-b416-3d1bf3e758ef" />
