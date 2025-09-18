@@ -13,18 +13,14 @@ https://portswigger.net/web-security/access-control/lab-user-role-can-be-modifie
 ## Step
 1. Masuk akun dan coba semua variabel
 2. DiIntercept ketemu variabel roleid : 1
-3. Masukkan di JSON vaar roleid : 2
-5. Hpuas Corlas
+3. Masukkan di JSON var roleid : 2
+4. Hpuas Corlas
 
 ## Gambar
-<img width="2879" height="1714" alt="Cuplikan layar 2025-09-18 081917" src="https://github.com/user-attachments/assets/63b0eccb-6a74-4542-b416-3d1bf3e758ef" />
-<img width="2879" height="1709" alt="Cuplikan layar 2025-09-18 083212" src="https://github.com/user-attachments/assets/465a5d5d-fd4f-49d0-ba0f-b097bef9f1af" />
-<img width="2879" height="1711" alt="Cuplikan layar 2025-09-18 083256" src="https://github.com/user-attachments/assets/8c2d7ee1-0dad-44c0-824e-8074af49572f" />
-<img width="2879" height="1722" alt="Cuplikan layar 2025-09-18 083602" src="https://github.com/user-attachments/assets/b7b236e1-72ad-46b4-8d12-f11ac130b634" />
-<img width="2879" height="1720" alt="Cuplikan layar 2025-09-18 083614" src="https://github.com/user-attachments/assets/d12118ce-a556-4bfb-9206-46402985023d" />
-<img width="2879" height="1709" alt="Cuplikan layar 2025-09-18 083625" src="https://github.com/user-attachments/assets/1b089e38-8265-44e6-b4e7-4ef6279ae0b8" />
-<img width="2879" height="1708" alt="Cuplikan layar 2025-09-18 083640" src="https://github.com/user-attachments/assets/98205703-86d3-4aa1-9628-e7e8d67035fa" />
-<img width="2879" height="1719" alt="Cuplikan layar 2025-09-18 083729" src="https://github.com/user-attachments/assets/7a4dd286-7f1f-43f0-b330-9ca55265a93b" />
+<img width="2879" height="1715" alt="Cuplikan layar 2025-09-18 074917" src="https://github.com/user-attachments/assets/625e2b36-9861-4599-ac55-edc5f4798149" />
+<img width="2879" height="1714" alt="Cuplikan layar 2025-09-18 075006" src="https://github.com/user-attachments/assets/491b43a0-be25-4f66-b837-33acdf1dbe0c" />
+<img width="2879" height="1717" alt="Cuplikan layar 2025-09-18 075108" src="https://github.com/user-attachments/assets/97268da8-49bc-41a1-a3ad-74f093689e11" />
+<img width="2874" height="1718" alt="Cuplikan layar 2025-09-18 075135" src="https://github.com/user-attachments/assets/b6191edd-5b90-48c3-9bb9-e6d8787ccda8" />
 
 ## Berhasil
 
