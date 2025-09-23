@@ -1,4 +1,4 @@
-<img width="2304" height="1276" alt="VirtualBox_kali-linux-2024 4-virtualbox-amd64_20_09_2025_17_01_11" src="https://github.com/user-attachments/assets/d6192382-9fbd-4dd8-a756-0db8d493c0fa" /># - Weird Crypto
+# - Weird Crypto
 Inform the shop about an algorithm or library it should definitely not use the way it does.
 
 # - Link
