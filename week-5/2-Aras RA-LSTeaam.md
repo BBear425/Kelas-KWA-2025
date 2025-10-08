@@ -11,14 +11,16 @@ https://juice-shop.herokuapp.com/#/
 2. Gunakan KeePass2John untuk di crack dengan John The Ripper
 3. Gagal ketika menggunakan wordlist rockyou.txt
 4. Ketika melihat main.js ketemu
-   ''' changePassword() {
-              localStorage.getItem('email') ?.match(/support@.*/) &&
-              !this.newPasswordControl.value.match(
+   ```
+   changePassword() {
+      localStorage.getItem('email') ?.match(/support@.*/) &&
+      !this.newPasswordControl.value.match(
                 /(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{12,30}/
-              ) &&
+      ) &&
               console.error(
                 'Parola echipei de asistență nu respectă politica corporativă pentru conturile privilegiate! Vă rugăm să schimbați parola în consecință!'
-              )'''
+              )
+   ```
 5. Jika ditranslasi memiliki arti "The support team password does not comply with the corporate policy for privileged accounts! Please change your password accordingly!"
 6. Regex memiliki makna ini:
   - Mengandung huruf kecil
